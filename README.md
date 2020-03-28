@@ -9,17 +9,17 @@ Aşağıdaki listede herkes düzenleme yapacak. Her katkı yapan, bu README.md d
  3. Ahmet Kar - OK
  4. Asım Burak Gündüz - OK
  5. Batuhan Aydın - Ok
- 6. Beyza Parlak
- 7. Cevriye Efe
- 8. Hande
+ 6. Beyza Parlak -OK
+ 7. Cevriye Efe -OK
+ 8. Hande - OK
  9. Hasan Hüseyin Turan - OK
  10. Muhammed Fatih Kılıç - OK
  11. Mustafa Taşçı - OK
  12. Mustafa Yıldırım
  13. Ömer Faruk Topaloğlu - OK
- 14. Rafet Efe GAZANFER
- 15. Sibel Çakmak
- 16. Sinan Dönder
+ 14. Rafet Efe GAZANFER - OK
+ 15. Sibel Çakmak-OK
+ 16. Sinan Dönder - OK
  17. Sinem Mengüç
- 18. Zeliha Kızılkaya
+ 18. Zeliha Kızılkaya OK
 
